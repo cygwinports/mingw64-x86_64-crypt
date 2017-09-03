@@ -4,7 +4,7 @@ GIT_TAG="crypt-${PV//./_}-release"
 inherit cross git
 
 NAME="mingw64-x86_64-crypt"
-VERSION=2.0
+VERSION=2.1
 RELEASE=1
 CATEGORY="Devel"
 SUMMARY="crypt(3) library for Win64 toolchain"
